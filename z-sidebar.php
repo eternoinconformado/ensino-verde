@@ -19,8 +19,8 @@
 						<span class="opener">Descarte de Lixo</span>
 						<ul>
 							<li><a href="coleta-seletiva.php">Coleta Seletiva</a></li>
-							<li><a href="#">Descartes Inadequados</a></li>
-							<li><a href="#">Os Cinco Erres</a></li>
+							<li><a href="descartes-inadequados.php">Descartes Inadequados</a></li>
+							<li><a href="cinco-erres-da-sustentabilidade.php">Os Cinco Erres da Sustentabilidade</a></li>
 						</ul>
 					</li>
 					<li><a href="#">Algum outro tema...</a></li>					
