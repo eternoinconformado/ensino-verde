@@ -19,7 +19,7 @@
 							<!-- Content -->
 								<section>
 									<header class="main">
-										<h1>Matemática do lixo</h1>
+										<h1>Quando lixo tua cidade produz?</h1>
 										<h5>Por: Vítor Fagundes | Núcleo Temático de Educação Ambiental Interdisciplinar, 2021.2</h5>
 									</header>
 

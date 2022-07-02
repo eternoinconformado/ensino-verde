@@ -36,7 +36,7 @@
 				<div class="mini-posts">
 					<article>
 						<a href="matematica-do-lixo.php" class="image"><img src="images/matematica-do-lixo.jpg"/></a>
-						<p>Matemática do Lixo</p>
+						<p>Quando lixo tua cidade produz?</p>
 					</article>
 					<article>
 						<a href="jogos/jogo2/" class="image"><img src="images/pic08.jpg" alt="" /></a>
