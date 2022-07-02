@@ -2073,10 +2073,10 @@ button,
 
 /* Header */
 #header {
-  display: -moz-flex;
+/*   display: -moz-flex;
   display: -webkit-flex;
-  display: -ms-flex;
-  display: flex;
+  display: -ms-flex; */
+  display: block;
   border-bottom: solid 5px green;
   padding: 6em 0 1em 0;
   position: relative; }
@@ -2092,7 +2092,7 @@ button,
     font-family: "Roboto Slab", serif;
     font-size: 1.125em; }
   #header .icons {
-    text-align: right; }
+    text-align: right; float: right}
   @media screen and (max-width: 1680px) {
     #header {
       padding-top: 5em; } }

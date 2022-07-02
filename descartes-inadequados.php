@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Descartes Inadequados - Nome da página</title>
+		<!-- MUDAR NOME DA PÁGINA --> <title>Descartes Inadequados - Nome da página</title>
 		<?php include("z-config.php") ?>
 	</head>
 	<body class="is-preload">

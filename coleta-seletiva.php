@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Coleta Seletiva - Nome da página</title>
+		<!-- MUDAR NOME DA PÁGINA --> <title>Coleta Seletiva - Nome da página</title>
 		<?php include("z-config.php") ?>
 	</head>
 	<body class="is-preload">
@@ -60,10 +60,10 @@
 									<p>Abaixo, alguns dos principais benefícios da coleta seletiva:</p>
 									
 									<ul>
-										<li>Promove a consciência ambiental dos cidadãos;
-										<li>Evita a contaminação do solo e da água;
-										<li>Evita o desperdício dos recursos naturais não-renováveis; 
-										<li>Promove a reciclagem (reaproveitamento de materiais); 
+										<li>Promove a consciência ambiental dos cidadãos;</li>
+										<li>Evita a contaminação do solo e da água;</li>
+										<li>Evita o desperdício dos recursos naturais não-renováveis;</li> 
+										<li>Promove a reciclagem (reaproveitamento de materiais);</li> 
 										<li>Melhora a economia (diminuir custos de produção, geração de empregos, etc.).</li>
 									</ul>
 									
