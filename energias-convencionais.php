@@ -3,7 +3,7 @@
 
 <head>
     <!-- MUDAR NOME DA PÁGINA -->
-    <title>Coleta Seletiva - Nome da página</title>
+    <title>Energias Convencionais - Nome da página</title>
     <?php include("z-config.php") ?>
 </head>
 

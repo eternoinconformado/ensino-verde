@@ -21,6 +21,7 @@
 							<li><a href="coleta-seletiva.php">Coleta Seletiva e Reciclagem</a></li>
 							<li><a href="descartes-inadequados.php">Descartes Inadequados</a></li>
 							<li><a href="cinco-erres-da-sustentabilidade.php">Os Cinco Erres da Sustentabilidade</a></li>
+							<li><a href="desenvolvimento-sustentavel.php">Desenvolvimento Sustentável</a></li>
 						</ul>
 					</li>
 					<li><a href="mudancas-climaticas.php">Mudanças Climáticas</a></li>					
