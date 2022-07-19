@@ -2,8 +2,7 @@
 <html>
 
 <head>
-    <!-- MUDAR NOME DA PÁGINA -->
-    <title>Desenvolvimento Sustentável - Nome da página</title>
+    <title>Desenvolvimento Sustentável - Ensino Verde</title>
     <?php include("z-config.php") ?>
 </head>
 
@@ -69,13 +68,6 @@
                     <p>O desenvolvimento sustentável é necessário para a manutenção das diferentes formas de vida da humanidade, assim como para a garantia de oferta de recursos ambientais para as próximas gerações. Sendo assim, o alcance do desenvolvimento sustentável perpassa por mudanças nos hábitos de consumo, nas políticas ambientais e na melhoria da qualidade de vida da população. Para tal, torna-se necessário uma reavaliação dos modos de vida das pessoas, com vistas à diminuição do consumismo e da predação desenfreada dos recursos naturais, além da promoção de mudanças na estrutura produtiva das indústrias.</p>
 
                     <p>No mais, deve-se ainda incentivar políticas de preservação ambiental, assim como atividades com reduzido impacto ambiental nas diferentes esferas da sociedade. Por sua vez, do ponto de vista social, pode-se fomentar ações de diminuição das desigualdades sociais, assim como o estabelecimento de uma maior oferta de trabalho e renda para as populações, por meio das contribuições da chamada economia verde. Desse modo, contemplam-se os princípios econômico, ambiental e social previstos no conceito de desenvolvimento sustentável</p>
-                    
-
-                    <hr class="major" />
-
-                    <h2>Referências:</h2>
-                    <p><small><i>(1) DIANA, Daniela. <b>Coleta seletiva</b>, 2016. Disponível em: <a href="https://www.todamateria.com.br/coleta-seletiva/" target="_blank">&lt;https://www.todamateria.com.br/coleta-seletiva/&gt;</a>. Acesso em: 02 jun. 2022</i></small></p>
-                    <p><small><i>(2) ROCHA, Marcelo. O lixo que é meu, é seu, é de todos nós. <b>Ciência Hoje das Crianças</b>, Rio de Janeiro, ano 27, n. 261, pp. 7-9, out. 2014.</i></small></p>
 
                 </section>
 

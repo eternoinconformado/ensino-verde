@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<!-- MUDAR NOME DA PÁGINA --> <title>Descartes Inadequados - Ensino Verde</title>
+		<title>Descartes Inadequados - Ensino Verde</title>
 		<?php include("z-config.php") ?>
 	</head>
 	<body class="is-preload">

@@ -2,8 +2,7 @@
 <html>
 
 <head>
-    <!-- MUDAR NOME DA PÁGINA -->
-    <title>Energias Convencionais - Nome da página</title>
+    <title>Energias Convencionais - Ensino Verde</title>
     <?php include("z-config.php") ?>
 </head>
 
@@ -28,7 +27,7 @@
 
                     <span class="image main"><img src="images/energias_convencionais.jpg" alt="Imagem Energias Convencionais" /></span>
 
-                    <p>Energias convencionais é o tipo de energia que é gerado a partir de fontes não renováveis. Ou seja, dependem de recursos finitos e que não são repostas a curto prazo, os principais exemplos são: petróleo, carvão mineral e gás natural.</p>
+                    <p>Energias convencionais são o tipo de energia que é gerado a partir de fontes não renováveis. Ou seja, dependem de recursos finitos e que não são repostas a curto prazo, os principais exemplos são: petróleo, carvão mineral e gás natural.</p>
 
                     <p>No mundo contemporâneo, a matriz energética mundial é concentrado nos recursos energéticos como, por exemplo, petróleo (33%), carvão (27%) e gás (24%).
                         Nos anos seguintes, o principal foco dos países vai ser equilibrar o uso desse tipo de energia, para preservação do nosso planeta. Porque a desvantagem da utilização das energias convencionais é a liberação dos gases do efeito estufa, que aumentam a temperatura do nosso planeta, provocando vários efeitos indesejados os principais são:
@@ -134,12 +133,6 @@
                     </ul>
 
                     <p>Por isso, cada vez mais os países estão buscando fontes alternativas que cause menos impactos negativos ao nosso planeta, como as energias renováveis, que estão se tornando mais presentes na matriz energética.</p>
-
-                    <hr class="major" />
-
-                    <h2>Referências:</h2>
-                    <p><small><i>(1) DIANA, Daniela. <b>Coleta seletiva</b>, 2016. Disponível em: <a href="https://www.todamateria.com.br/coleta-seletiva/" target="_blank">&lt;https://www.todamateria.com.br/coleta-seletiva/&gt;</a>. Acesso em: 02 jun. 2022</i></small></p>
-                    <p><small><i>(2) ROCHA, Marcelo. O lixo que é meu, é seu, é de todos nós. <b>Ciência Hoje das Crianças</b>, Rio de Janeiro, ano 27, n. 261, pp. 7-9, out. 2014.</i></small></p>
 
                 </section>
 

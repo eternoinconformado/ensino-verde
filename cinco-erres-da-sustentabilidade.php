@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<!-- MUDAR NOME DA PÁGINA --> <title>Os Cinco Erres da Sustentabilidade - Ensino Verde</title>
+		<title>Os Cinco Erres da Sustentabilidade - Ensino Verde</title>
 		<?php include("z-config.php") ?>
 	</head>
 	<body class="is-preload">

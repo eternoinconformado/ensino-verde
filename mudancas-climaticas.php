@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<!-- MUDAR NOME DA PÁGINA --> <title>Mudanças Climáticas - Ensino Verde</title>
+		<title>Mudanças Climáticas - Ensino Verde</title>
 		<?php include("z-config.php") ?>
 		
 		<style>

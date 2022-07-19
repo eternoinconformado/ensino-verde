@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<!-- MUDAR NOME DA PÁGINA --> <title>Coleta Seletiva - Ensino Verde</title>
+		<title>Coleta Seletiva e Reciclagem - Ensino Verde</title>
 		<?php include("z-config.php") ?>
 	</head>
 	<body class="is-preload">
@@ -20,7 +20,7 @@
 								<section>
 									<header class="main">
 										<h1>Coleta Seletiva e Reciclagem</h1>
-										<h5>Fichamento por: Vítor Fagundes | Núcleo Temático de Educação Ambiental Interdisciplinar, 2021.2</h5>
+										<h5>Fichamento por: Adão Thalisson e Vítor Fagundes | Núcleo Temático de Educação Ambiental Interdisciplinar, 2021.2</h5>
 									</header>
 
 									<span class="image main"><img src="images/coleta_seletiva.jpg" alt="Tambores de coleta seletiva" /></span>
@@ -30,7 +30,7 @@
 									<p>A palavra “lixo” vem do latim <i>lix</i>, que significa cinzas, indicando algo que termina seu ciclo de forma natural. mas a espécie humana é a única que não consegue ter aquilo que deseja descartar inteiramente reciclado pela natureza. Uma das principais maneiras de diminuir a quantidade de lixo é por meio da reciclagem. Nesse caso, para que ela seja eficiente, é importante que todos nós façamos a coleta seletiva.</p>
 									
 									<p>A Coleta Seletiva é um mecanismo de recolha dos resíduos, os quais são classificados de acordo com sua origem e depositados em contentores indicados por cores. Ou seja, eles podem ser resíduos orgânicos ou materiais recicláveis como papel, plástico, vidro, dentre outros. Além deles, materiais hospitalares e radioativos têm um destino diferente. Em resumo, a coleta seletiva é a separação dos materiais e a reciclagem é a transformação das matérias primas que podem ser reaproveitadas.</p>									
-								
+
 									<hr class="major" />
 
 									<h2>As cores</h2>
@@ -70,7 +70,7 @@
 									<p>O trabalho de coleta seletiva em casa evita que os resíduos biodegradáveis - como restos de comida, cascas de frutas e verduras, entre outros - se misturem a outros materiais, podendo contaminar o solo, a água e atraiam animais que transmitem doenças.</p>
 									
 									<p>Comece a separar o lixo da sua casa e repare como você vai reduzir a quantidade do que destina ao recolhimento do caminhão de lixo comum. Por outro lado, note como cresce o volume de materiais que poderá ser transformado na indústria. Esses materiais (papel, plástico, vidro e metal), quando não há uma coleta especial nas ruas, precisam ser levados a postos de entrega voluntária. Faça a sua parte. Se cada um der o destino adequado apenas ao lixo que produz, a qualidade de vida de todos melhora muito.</p>
-
+									
 									<span class="image main"><img src="images/reciclagem.jpg" alt="reciclagem" /></span>
 									
 									<h2>Reciclagem</h2>
@@ -137,8 +137,7 @@
 										<li>Programa Interno de Coleta Seletiva (PIC): Em parceria com a associação de catadores de lixo esse programa é realizado em Instituições públicas e privadas.</li>
 									</ul>
 
-									<p>A Coleta Seletiva está intimamente relacionada à Educação Ambiental na medida em que desperta o interesse das comunidades acerca dos problemas do desperdício, do consumo, da poluição e dos prejuízos ambientais.</p>
-
+									<p>A Coleta Seletiva está intimamente relacionada à Educação Ambiental na medida em que desperta o interesse das comunidades acerca dos problemas do desperdício, do consumo, da poluição e dos prejuízos ambientais.</p>									
 									<hr class="major" />
 
 									<h2>Referências:</h2>								
