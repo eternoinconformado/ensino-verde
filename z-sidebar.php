@@ -11,8 +11,11 @@
 					<li>
 						<span class="opener active">Fontes de Energia</span>
 						<ul>
+							<li><a href="energias-convencionais.php">Energias Convencionais</a></li>
+							<li><a href="#">Energias Renováveis</a></li>
 							<li><a href="energia-convencional.php">Energias Convencionais</a></li> <!-- FALTA ARQUIVO -->
 							<li><a href="energia-renovavel.php">Energias Renováveis</a></li>
+
 						</ul>
 					</li>
 					<li>
@@ -22,6 +25,7 @@
 							<li><a href="coleta-seletiva.php">Coleta Seletiva</a></li>
 							<li><a href="descartes-inadequados.php">Descartes Inadequados</a></li>
 							<li><a href="cinco-erres-da-sustentabilidade.php">Os Cinco Erres da Sustentabilidade</a></li>
+							<li><a href="desenvolvimento-sustentavel.php">Desenvolvimento Sustentável</a></li>
 						</ul>
 					</li>
 					<li>
