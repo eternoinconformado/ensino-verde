@@ -1,5 +1,5 @@
 <header id="header">
-	<a href="index.php" class="logo"><strong>Título do Site</strong> por Matheus Passos, Thalisson Castro e Vítor Fagundes</a>
+	<a href="index.php" style="border-bottom:none"><img src="images/ensino-verde-logo.png" style="width:26%" alt="Ensino Verde"/></a>
 	<ul class="icons">
 		<li><a href="https://facebook.com/programaescolaverde/" target="_blank" class="icon brands fa-facebook-f" title="PEV no Facebook"><span class="label">Facebook</span></a></li>
 		<li><a href="https://instagram.com/programaescolaverde/" target="_blank" class="icon brands fa-instagram" title="PEV no Instagram"><span class="label">Instagram</span></a></li>

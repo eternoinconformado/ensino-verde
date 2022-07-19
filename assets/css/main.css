@@ -130,6 +130,7 @@ em, i {
 p {
   margin: 0 0 2em 0; 
   text-align: justify;
+  text-indent: 40px
   }
 
 h1, h2, h3, h4, h5, h6 {
@@ -219,7 +220,7 @@ hr {
   border-bottom: solid 1px rgba(210, 215, 217, 0.75);
   margin: 2em 0; }
   hr.major {
-    margin: 3em 0; }
+    margin: 1em 0; }
 
 .align-left {
   text-align: left; }
@@ -1241,8 +1242,8 @@ input[type="radio"] + label:before {
       width: 100%; }
   .image.main {
     display: block;
-    margin: 0 0 3em 0;
-    width: 100%; }
+    margin: 3em auto;
+    width: 55%; }
     .image.main img {
       width: 100%; }
 
@@ -1396,7 +1397,9 @@ ul.contact {
         top: 0; }
     ul.contact li a {
       color: inherit; }
-
+	ul.contact li a, .copyright a {
+		border-bottom:none!important
+	}
 /* Pagination */
 ul.pagination {
   cursor: default;
@@ -1861,7 +1864,7 @@ button,
     margin: 0 auto;
     max-width: 110em; }
     #main > .inner > section {
-      padding: 6em 0 4em 0 ;
+      padding: 2em 0 4em 0 ;
       border-top: solid 2px rgba(210, 215, 217, 0.75); }
       #main > .inner > section:first-of-type {
         border-top: 0 !important; }
@@ -1869,12 +1872,12 @@ button,
     #main > .inner {
       padding: 0 5em 0.1em 5em ; }
       #main > .inner > section {
-        padding: 5em 0 3em 0 ; } }
+        padding: 2em 0 3em 0 ; } }
   @media screen and (max-width: 1280px) {
     #main > .inner {
       padding: 0 4em 0.1em 4em ; }
       #main > .inner > section {
-        padding: 4em 0 2em 0 ; } }
+        padding: 2em 0 2em 0 ; } }
   @media screen and (max-width: 736px) {
     #main > .inner {
       padding: 0 2em 0.1em 2em ; }
@@ -1942,10 +1945,8 @@ button,
     width: 26em; }
     #sidebar > .inner > * {
       border-bottom: solid 2px rgba(210, 215, 217, 0.75);
-      margin: 0 0 3.5em 0;
-      padding: 0 0 3.5em 0; }
-      #sidebar > .inner > * > :last-child {
-        margin-bottom: 0; }
+      margin: 0 0 3.5em 0
+	  }
       #sidebar > .inner > *:last-child {
         border-bottom: 0;
         margin-bottom: 0;
@@ -2095,7 +2096,7 @@ button,
     text-align: right; float: right}
   @media screen and (max-width: 1680px) {
     #header {
-      padding-top: 5em; } }
+      padding-top: 1.4em; } }
   @media screen and (max-width: 736px) {
     #header {
       padding-top: 6.5em; }
@@ -2189,8 +2190,8 @@ button,
 
 /* Footer */
 #footer .copyright {
-  color: #9fa3a6;
-  font-size: 0.9em; }
+  text-align: center; margin: 0; text-indent: 0
+  }
   #footer .copyright a {
     color: inherit; }
 

@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<!-- MUDAR NOME DA PÁGINA --> <title>Matemática do Lixo - Nome da página</title>
+		<!-- MUDAR NOME DA PÁGINA --> <title>Matemática do Lixo - Ensino Verde</title>
 		<?php include("z-config.php") ?>
 	</head>
 	<body class="is-preload">
