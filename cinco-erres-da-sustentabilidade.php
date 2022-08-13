@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+﻿<!DOCTYPE HTML>
 <html>
 	<head>
 		<title>Os Cinco Erres da Sustentabilidade - Ensino Verde</title>

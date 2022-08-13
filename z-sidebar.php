@@ -1,47 +1,60 @@
-<div id="sidebar">
+﻿<div id="sidebar">
 	<div class="inner">
+	
+		<!-- Notícias do PEV -->
+		<header class="major">
+			<h2>Notícias do PEV</h2>
+		</header>
+				
+		<div id='rss-wrap'>
+		<div id='rss-container' class=''></div>
+		
+		<div id='rss-header'>
+		<a id='rss-title' href='https://escolaverde.org/site/?page_id=27' target='_blank'>Clique aqui para acessar todas as notícias</a>
+		</div>		
+		
+		</div>
 
-		<!-- Menu -->
-			<nav id="menu">
-				<header class="major">
-					<h2>Escolha um tema...</h2>
-				</header>
-				<ul>
-					<li><a href="index.php">Página Inicial</a></li>
-					<li>
-						<span class="opener active">Fontes de Energia</span>
-						<ul>
-							<li><a href="energias-convencionais.php">Energias Convencionais</a></li>
-							<li><a href="energia-renovavel.php">Energias Renováveis</a></li>
-						</ul>
-					</li>
-					<li>
-						<span class="opener active">Descarte de Lixo</span>
-						<ul>
-							<li><a href="coleta-seletiva.php">Coleta Seletiva e Reciclagem</a></li>
-							<li><a href="descartes-inadequados.php">Descartes Inadequados</a></li>
-							<li><a href="cinco-erres-da-sustentabilidade.php">Os Cinco Erres da Sustentabilidade</a></li>
-						</ul>
-					</li>
-					<li>
-						<span class="opener active">Impactos e Estratégias</span>
-						<ul>
-							<li><a href="mudancas-climaticas.php">Mudanças Climáticas</a></li>
-							<li><a href="acordo-eco.php">Acordos Ambientais</a></li>			
-							<li><a href="desenvolvimento-sustentavel.php">Desenvolvimento Sustentável</a></li>							
-							<li><a href="computacao-verde.php">Computação Verde</a></li>							
-						</ul>
-					</li>					
-					<li>
-						<span class="opener active">Jogos e Ferramentas</span>
-						<ul>
-							<li><a href="matematica-do-lixo.php">Quanto lixo tua cidade produz?</a></li>
-						</ul>
-					</li>
-				</ul>
-			</nav>
+		<script>
+		function load_rss(){
+		  var num = 1;
+		 $("#rss-container").html("");
+		 $("#rss-container").rss("https://escolaverde.org/site/?feed=rss2", {
+			limit: 5,
+			ssl: true,
+			dateFormat: 'DD/MM/YYYY',
+			entryTemplate: 
+			"<a class='entry_link' href='{url}' target='_blank'>\
+			  <div class='entry'>\
+				<div class='entry_date'>\
+				  Publicado em {date}\
+				  <span class='entry_by'>por {author}</span>\
+				</div>\
+				<div class='entry_img'>\
+				  {teaserImage}\
+				</div>\
+				<div class='entry_title'>\
+				  {title}\
+				</div>\
+				<div class='entry_details'>{shortBody}...</div>\
+			  </div>\
+			</a>",
+			error: function(error){
+			  console.log(error);
+			},
+		  },function(){
+			$(".entry").each(function(index){
+			  if(index%2!=0) $(this).addClass("entry2"); // Fix this later with css
+			});
+		  });
+		}
 
-		<!-- Section -->
+		$(function(){
+		  load_rss();
+		});
+		</script>	
+
+		<!-- Contato -->
 			<section>
 				<header class="major">
 					<h2>Contato com o PEV</h2>
@@ -54,9 +67,9 @@
 				</ul>
 			</section>
 
-		<!-- Footer -->
+		<!-- Rodapé -->
 			<footer id="footer">
-				<p class="copyright"><strong style="color:green"><a href="index.php">Ensino Verde</a></strong> por Matheus Passos, Thalisson Castro e Vítor Fagundes
+				<p class="copyright"><strong style="color:var(--cor-ev)"><a href="index.php">Ensino Verde</a></strong> por Matheus Passos, Thalisson Castro e Vítor Fagundes
 				<br><br>
 				Modelo: <a href="https://html5up.net">HTML5 UP</a>
 				</p>

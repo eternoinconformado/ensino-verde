@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+﻿<!DOCTYPE HTML>
 <html>
 	<head>
 		<title>Quanto lixo tua cidade produz? - Ensino Verde</title>
@@ -25,7 +25,7 @@
 
 									<span class="image main"><img src="images/matematica-do-lixo.jpg" alt="Lixão a céu aberto" /></span>
 
-									<p>Vamos fazer o cálculo para saber quanto lixo é produzido na tua cidade? Normalmente, uma pessoa produz em média um quilo e meio de resíduo doméstico por dia. Selecione, abaixo, o lugar de teu interesse e descubra a quantidade aproximada de lixo produzido diariamente e em um ano.</p>
+									<p>Vamos fazer o cálculo para saber quanto lixo é produzido na tua cidade? Normalmente, uma pessoa produz, em média, <i>entre 1,5 e 2 kg de resíduos domésticos por dia</i>. Selecione, abaixo, o lugar de teu interesse e descubra a quantidade aproximada de lixo produzido diariamente e em um ano.</p>
 									
 									<form>
 										<label for="uf">UF:</label>

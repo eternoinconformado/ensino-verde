@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+﻿<!DOCTYPE HTML>
 <html>
 	<head>
 		<title>Acordos Ambientais - Ensino Verde</title>
@@ -27,8 +27,6 @@
 
 									<p>É possível observar os impactos ambientais causados pelas mudanças climáticas em grande escalas pelo mundo, tais como um aumento no número de incêndios florestais, elevação dos níveis e temperaturas dos oceanos, fenômenos climáticos incomuns e várias outras consequências que ocorrem com mais frequência nos últimos anos. Portanto, para tentar minimizar (ou até mesmo reverter) a mudança climática, vários países de todo o mundo discutem e tentam chegar a acordos para combater este problema, resultando então em um esforço global. </p>
 									<p>Graças a esses esforços, surgiram várias regulamentações e um aumento na supervisão para que as regulamentações sejam seguidas, além do surgimento de várias metas a serem alcançadas, tais como a substituição das matrizes energéticas de cada país, trocando as energias convencionais pelas energias renováveis. Dentre estes acordos, podemos citar o Protocolo de Kyoto e o Acordo de Paris.</p>
-
-									<
 
 									<hr class="major" />
 

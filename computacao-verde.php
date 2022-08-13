@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+﻿<!DOCTYPE HTML>
 <html>
 	<head>
 		<title>Computação Verde - Ensino Verde</title>
@@ -27,8 +27,6 @@
 
 									<p>Atualmente, as discussões sobre as políticas de descarte de resíduos estão se tornando uma questão cada vez mais frequente na sociedade, pois o mau manuseio desses resíduos é um problema que afeta todo o mundo, tornando-se uma preocupação mundial. Um destes problemas é aumento desenfreado nos avanços da tecnologia, os avanços da produção e por conseguinte a substituição desses aparelhos por aparelhos mais velozes e com mais recursos, ocorrem de forma muito acelerada. Esses equipamentos, na grande maioria das vezes, são descartados de forma inadequada no lixo comum. </p>
 									<p> Portanto, devido ao ritmo acelerado na produção e descarte de produtos, juntamente com o grande consumo energético, é essencial a utilização eficiente destes recursos materiais e energéticos. Logo, a TI verde surgiu como uma proposta para solucionar estes problemas através do estudo e uso de recursos energéticos, computacionais ou materiais (produção) de forma eficiente. Pode-se citar, como exemplos de aplicações: A redução do consumo de eletricidade por parte de sistemas computacionais, a reformulação e implementação de novos processos de produção, descarte e reciclagem de componentes eletrônicos, regulamentações e métricas para sua produção, descarte e reutilização, ETC.</p>
-
-									<
 
 									<hr class="major" />
 
