@@ -108,7 +108,7 @@ $("select[name='cidade']").change(function () {
 		var lixoAno = lixoDia * 365
 		
 		
-		output = '<span>Local: <b>'+nomeMun+'</b></span><br><span>População aproximada: <b>'+popMun.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".")+' habitantes</b></span><br><br><span><i>Quantidade estimada de lixo produzido:</i><br> Em apenas um único dia: <b>'+lixoDia.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".")+' kg/dia</b></span><br>Em 1 ano: <b>'+lixoAno.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".")+' kg/ano</b></span><br><br><p style="text-align:center">Colocar os Cinco Erres da Sustentabilidade em ação ajudaria muito a reduzir essa quantidade enorme de lixo. <a href="cinco-erres-da-sustentabilidade.php" target="_blank"><br>Clique aqui para saber mais a respeito.</a></p>';
+		output = '<span>Local: <b>'+nomeMun+'</b></span><br><span>População aproximada: <b>'+popMun.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".")+' habitantes</b></span><br><br><span><i>Quantidade estimada de lixo produzido:</i><br> Em apenas um único dia: <b>'+lixoDia.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".")+' kg/dia</b></span><br>Em 1 ano: <b>'+lixoAno.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".")+' kg/ano</b></span><br><br><p style="text-align:center">Colocar os Cinco Erres da Sustentabilidade em ação ajudaria muito a reduzir essa quantidade enorme de lixo. <a href="cinco-erres-da-sustentabilidade.php"><br>Clique aqui para saber mais a respeito.</a></p>';
 		$('#results').html(output);
 		$('#results').show()
 
