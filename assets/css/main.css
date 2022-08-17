@@ -1908,12 +1908,27 @@ table {
         height: 6.25em;
         left: 24em;
         line-height: 6.25em;
-        text-indent: 5em;
-        width: 5em; }
+		text-indent: 7.25em;
+		width: 7.25em; }
         #sidebar .toggle:before {
-          font-size: 1.5rem; }
+        color: #3d4449;
+        margin-left: -0.0625em;
+        margin-top: -0.25em;
+        font-size: 1.1rem;
+        z-index: 1;
+		  }
       #sidebar.inactive {
-        margin-left: -24em; } }
+        margin-left: -24em; } 
+      #sidebar .toggle:after {
+        background: rgb(222, 225, 226);
+        border-radius: 0.375em;
+        content: '';
+        height: 3.5em;
+        left: 1em;
+        position: absolute;
+        top: 1em;
+        width: 5em; } 
+		}
   @media screen and (max-width: 1280px) {
     #sidebar {
       box-shadow: 0 0 5em 0 rgba(0, 0, 0, 0.175);
@@ -1923,7 +1938,8 @@ table {
       top: 0;
       z-index: 10000; }
       #sidebar.inactive {
-        box-shadow: none; }
+        box-shadow: none; 
+		margin-left: -26em;}
       #sidebar > .inner {
         -webkit-overflow-scrolling: touch;
         height: 100%;
@@ -1938,32 +1954,18 @@ table {
           height: 4em;
           width: 100%; }
       #sidebar .toggle {
-        text-indent: 6em;
-        width: 6em; }
+        text-indent: 7.25em;
+        width: 7.25em; 
+		left: 26em;}
         #sidebar .toggle:before {
-          font-size: 1.5rem;
-          margin-left: -0.4375em; }
+          font-size: 1.1rem;
+          margin-left: -0.0625em; }
       body.is-preload #sidebar {
         display: none; } }
-  @media screen and (max-width: 736px) {
-    #sidebar .toggle {
-      text-indent: 7.25em;
-      width: 7.25em; }
-      #sidebar .toggle:before {
-        color: #3d4449;
-        margin-left: -0.0625em;
-        margin-top: -0.25em;
-        font-size: 1.1rem;
-        z-index: 1; }
-      #sidebar .toggle:after {
-        background: rgb(222, 225, 226);
-        border-radius: 0.375em;
-        content: '';
-        height: 3.5em;
-        left: 1em;
-        position: absolute;
-        top: 1em;
-        width: 5em; } }
+
+#sidebar .toggle:hover:before {
+    color:var(--cor-ev)
+}		
 
 /* Header */
 #header {
@@ -1971,6 +1973,7 @@ table {
   display: -webkit-flex;
   display: -ms-flex; */
   display: block;
+  text-align: center;
   border-bottom: solid 5px var(--cor-ev);
   padding: 6em 0 1em 0;
   position: relative; }
@@ -1992,13 +1995,12 @@ table {
       padding-top: 1.4em; } }
   @media screen and (max-width: 736px) {
     #header {
-      padding-top: 6.5em; }
+      padding-top: 4.5em; }
       #header .logo {
         font-size: 1.25em;
         margin: 0; }
       #header .icons {
         height: 5em;
-        line-height: 5em;
         position: absolute;
         right: -0.5em;
         top: 0; } }
