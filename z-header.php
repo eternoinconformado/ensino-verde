@@ -1,6 +1,6 @@
 ﻿<header id="header">
 
-	<a href="index.php" style="border-bottom:none"><img src="images/ensino-verde-logo.png" style="width:23%; margin:-3px 0 8px 4px" alt="Ensino Verde"/></a>
+	<a href="index.php" style="border-bottom:none"><img src="images/ensino-verde-logo.png" style="width:270px; margin:-3px 0 8px 4px" alt="Ensino Verde"/></a>
 
 	<ul class="icons">
 		<li><a href="https://facebook.com/programaescolaverde/" target="_blank" class="icon brands fa-facebook-f" title="PEV no Facebook"><span class="label">Facebook</span></a></li>

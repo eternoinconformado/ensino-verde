@@ -1,6 +1,8 @@
 ﻿<div id="sidebar">
 	<div class="inner">
 	
+			<a href="https://escolaverde.org/" target="_blank" title="Programa Escola Verde (PEV)" style="border-bottom:none; margin-left:1.66667em"><img src="images/logo-pev.png" style="width:230px" alt="Programa Escola Verde (PEV)"></a>
+	
 		<!-- Notícias do PEV -->
 		<header class="major">
 			<h2>Notícias do PEV</h2>
