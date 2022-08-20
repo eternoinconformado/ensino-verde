@@ -40,14 +40,9 @@
 			<a href="computacao-verde.php">Computação Verde</a>
 		</div>
 	  </div>    
-	  <div class="dropdown">
-		<button class="dropbtn">Jogos e Ferramentas 
-		  <i class="fa fa-caret-down"></i>
-		</button>
-		<div class="dropdown-content">
-			<a href="matematica-do-lixo.php">Quanto lixo tua cidade produz?</a>
-		</div>
-	  </div>   
+	
+	<a href="jogos-e-ferramentas.php">Jogos e Ferramentas</a>
+ 
 	  <a href="javascript:void(0);" style="font-size:14px" class="icon" onclick="responsivo()">&#9776;</a>
 	</div>
 

@@ -1,7 +1,7 @@
 ﻿<div id="sidebar">
 	<div class="inner">
 	
-			<a href="https://escolaverde.org/" target="_blank" title="Programa Escola Verde (PEV)" style="border-bottom:none; margin-left:1.66667em"><img src="images/logo-pev.png" style="width:230px" alt="Programa Escola Verde (PEV)"></a>
+			<p style="border-bottom:none; text-align:center; text-indent:0; margin:0"><a href="https://escolaverde.org/" target="_blank" title="Programa Escola Verde (PEV)"><img src="images/logo-pev.png" style="width:230px" alt="Programa Escola Verde (PEV)"></a></p>
 	
 		<!-- Notícias do PEV -->
 		<header class="major">
@@ -71,9 +71,11 @@
 
 		<!-- Rodapé -->
 			<footer id="footer">
-				<p class="copyright"><strong style="color:var(--cor-ev)"><a href="index.php">Ensino Verde</a></strong> por Matheus Passos, Thalisson Castro e Vítor Fagundes
-				<br><br>
-				Modelo: <a href="https://html5up.net">HTML5 UP</a>
+				<p class="copyright"><strong style="color:var(--cor-ev)"><a href="index.php">ENSINO VERDE (2022)</a></strong><br>Modelo: <a href="https://html5up.net">HTML5 UP</a> | Desenvolvido por:<br><br><b>Matheus Passos</b><br><i>(graduando em Engenharia da Computação)</i><br><br><b>Thalisson Castro</b><br><i>(graduando em Engenharia da Computação)</i><br><br><b>Vítor Fagundes</b><br><i>(graduando em Psicologia)</i><br><br><b>Prof. Paulo Roberto Ramos</b><br><i>(orientador)</i>
+				</p>
+				<hr style="border-width:2px"/>
+				<p style="text-align:center; padding-top:5px; text-indent:0">
+				<a href="http://portais.univasf.edu.br" target="_blank" title="UNIVASF"><img src="images/univasf.png" alt="UNIVASF" style="width:75%"/></a>
 				</p>
 			</footer>
 
