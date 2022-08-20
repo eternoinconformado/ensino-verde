@@ -30,7 +30,7 @@
 			  <div class='entry'>\
 				<div class='entry_date'>\
 				  Publicado em {date}\
-				  <span class='entry_by'>por {author}</span>\
+				  /* <span class='entry_by'>por {author}</span>\ */
 				</div>\
 				<div class='entry_img'>\
 				  {teaserImage}\
