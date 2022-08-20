@@ -20,7 +20,7 @@
 								<section>
 									<header class="main">
 										<h1>Quando lixo tua cidade produz?</h1>
-										<h5>Por: Vítor Fagundes | Núcleo Temático de Educação Ambiental Interdisciplinar, 2021.2</h5>
+										<h5>Por: Matheus Passos e Vítor Fagundes | Núcleo Temático de Educação Ambiental Interdisciplinar, 2021.2</h5>
 									</header>
 
 									<span class="image main"><img src="images/matematica-do-lixo.jpg" alt="Lixão a céu aberto" /></span>
