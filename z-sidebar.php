@@ -71,7 +71,7 @@
 
 		<!-- Rodapé -->
 			<footer id="footer">
-				<p class="copyright"><strong style="color:var(--cor-ev)"><a href="index.php">ENSINO VERDE (2022)</a></strong><br>Modelo: <a href="https://html5up.net/editorial">HTML5 UP - Editorial</a> | Desenvolvido por:<br><br><b>Matheus Passos</b><br><i>(graduando em Engenharia da Computação)</i><br><br><b>Thalisson Castro</b><br><i>(graduando em Engenharia da Computação)</i><br><br><b>Vítor Fagundes</b><br><i>(graduando em Psicologia)</i><br><br><b>Prof. Paulo Roberto Ramos</b><br><i>(orientador)</i>
+				<p class="copyright"><strong style="color:var(--cor-ev)"><a href="index.php">ENSINO VERDE (2022)</a></strong><br>Modelo: <a href="https://html5up.net/editorial">HTML5 UP - Editorial</a><br>Desenvolvido por:<br><br><b>Matheus Passos</b><br><i>(graduando em Engenharia da Computação)</i><br><br><b>Thalisson Castro</b><br><i>(graduando em Engenharia da Computação)</i><br><br><b>Vítor Fagundes</b><br><i>(graduando em Psicologia)</i><br><br><b>Prof. Paulo Roberto Ramos</b><br><i>(orientador)</i>
 				</p>
 				<hr style="border-width:2px"/>
 				<p style="text-align:center; padding-top:5px; text-indent:0">
