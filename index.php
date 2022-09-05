@@ -22,7 +22,7 @@
 										<header>
 											<h1>Bem-vindo ao Ensino Verde!</h1>
 										</header>
-										<p>O Ensino Verde é uma página vinculada ao <a href="https://escolaverde.org/" target="_blank">Programa Escola Verde (PEV)</a> – um movimento social de mobilização e transformação pedagógica e colaborativa de escolas e comunidades no enfrentamento dos problemas socioambientais – construída com o intuito de disponibilizar informações sobre temáticas diversas referentes ao meio ambiente por meio de textos e de alguns jogos a fim de que você possa testar o teu conhecimento de forma lúdica. Fique à vontade para navegar em nosso site!</p>
+										<p>O Ensino Verde é uma página vinculada ao <a href="https://escolaverde.org/" target="_blank">Programa Escola Verde (PEV)</a> – um movimento social de mobilização e transformação pedagógica e colaborativa de escolas e comunidades no enfrentamento dos problemas socioambientais – construída com o intuito de disponibilizar informações sobre temáticas diversas referentes ao meio ambiente por meio de textos e de alguns jogos e ferramentas a fim de que você possa testar o teu conhecimento de forma lúdica. Fique à vontade para navegar em nosso site!</p>
 									</div>
 									<span class="image object">
 										<img src="images/ev-logo-inicio.png" alt="Ensino Verde" />
@@ -32,7 +32,7 @@
 							<!-- Section -->
 								<section>
 									<header class="major">
-										<h2>Nossos principais conteúdos:</h2>
+										<h2>Principais conteúdos:</h2>
 									</header>
 									<div class="posts">
 										<article>
@@ -108,11 +108,11 @@
 											</ul>
 										</article>	
 										<article>
-											<a href="matematica-do-lixo.php" class="image"><img src="images/matematica-do-lixo.jpg" alt="Quando lixo tua cidade produz?" /></a>
-											<h3>Quando lixo tua cidade produz?</h3>
-											<p>Já parou para pensar na enorme quantidade de lixo que é produzida por dia na tua cidade e como isso impacta o meio ambiente? Acesse esta ferramenta para saber mais a respeito.</p>
+											<a href="jogos-e-ferramentas.php" class="image"><img src="images/3956.jpg" alt="Jogos e Ferramentas" /></a>
+											<h3>Jogos e Ferramentas</h3>
+											<p>Acesse esta seção para conhecer ferramentas e jogos criados por estudantes que já passaram pelo PEV com o objetivo de disseminar conhecimento sobre o meio ambiente de forma prática, didática e divertida.</p>
 											<ul class="actions">
-												<li><a href="matematica-do-lixo.php" class="button leiaMais">Leia mais...</a></li>
+												<li><a href="jogos-e-ferramentas.php" class="button leiaMais">Leia mais...</a></li>
 											</ul>
 										</article>											
 									</div>

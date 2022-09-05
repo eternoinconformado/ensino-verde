@@ -39,7 +39,7 @@
 									<hr class="major" />
 
 									<h2>Aplicações: Produção de equipamentos eletrônicos</h2>
-									<span class="image main"><img src="images/equipElet.jpg" alt="Energia Eolica" /></span>
+									<span class="image main"><img src="images/equipelet.jpg" alt="Energia Eolica" /></span>
 
 									<p>Os hardwares que fazem parte da estrutura de inúmeros equipamentos utilizados no cotidiano normalmente são produzidos com materiais nocivos, como ouro, cobre, silício e vários outros que, como já bem sabemos, o seu descarte e manuseio inadequado podem prejudicar a natureza e também a vida humana. Durante a produção desses equipamentos, toneladas desses materiais são utilizados para a produção em larga escala, podendo ocorrer acidentes e descartes inadequados desse material. </p>
 									<p>Além disso, a velocidade de substituição desses equipamentos é muito alta devido à velocidade do avanço tecnológico e da demanda do mercado, o que significa que há um grande descarte desses equipamentos em pouco tempo, bem como a produção em alta escala do seu equipamento aprimorado. Portanto, é essencial que seja bem planejada tanto a produção desses equipamentos, quanto o seu descarte e reciclagem para minimizar os impactos ambientais e o desperdício de material. Algumas fábricas já utilizam novas tecnologias e mudanças no processo de produção a fim de permitir que o ciclo de vida do seu produto tenha o máximo de sustentabilidade possível, minimizando os impactos ambientais.</p>

@@ -89,7 +89,7 @@
 					.appendTo($head);
 
 		// Toggle.
-			$('<a href="#sidebar" class="toggle" style="color:#3d4449">Toggle</a>')
+			$('<a href="#sidebar" class="toggle" style="color:#3d4449" title="Painel do PEV">Toggle</a>')
 				.appendTo($sidebar)
 				.on('click', function(event) {
 
