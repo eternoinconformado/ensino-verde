@@ -41,6 +41,15 @@
 											</ul>
 										</article>
 										<article>
+											<a href="WasteSorting/index.html" target="_blank" class="image"><img src="images/coleta_seletiva.jpg" alt="coletaSeletiva" /></a>
+											<h3>Coleta Seletiva</h3>
+											<p>Mini jogo com o intuito de proporcionar o conhecimento para as crianças e até adultos a memorizar as cores certas para cada tipo de resíduo.</p>
+											<p class="creditos"><i><b>Autores: </b>Adão Thalisson e Matheus Passos</i><p>
+											<ul class="actions">
+												<li><a href="WasteSorting/index.html" target="_blank" class="button leiaMais">Acessar (Versão Web)</a></li>
+											</ul>
+										</article>
+										<article>
 											<a href="https://escolaverde.org/pevpegada/#home" target="_blank" class="image"><img src="images/pev-pegada.png" alt="PEV Pegada" /></a>
 											<h3>PEV Pegada</h3>
 											<p>Site que explica o que é a pegada de carbono e traz outras informações relevantes sobre o tema, ajudando o usuário a reletir sobre a quantidade de área bioprodutiva necessária para suprir a demanda das pessoas por recursos naturais e para a absorção do carbono.</p>

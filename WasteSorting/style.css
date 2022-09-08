@@ -1,0 +1,26 @@
+body {
+    color: #b8860b;
+    margin: 0;
+    background-color: #3A6332;
+  }
+  canvas {
+    width: 100%;
+  }
+  .canvas-wrapper{
+    border-style: solid;
+    border-color: black;
+    width: 89%;
+    margin: 30px;
+    padding: 0px;
+  }
+  .center {
+    text-align: center;
+  }
+  .game {
+    position: relative;
+  }
+  #score{
+    position: absolute;
+    top:0px;
+    left:50px;
+  }
