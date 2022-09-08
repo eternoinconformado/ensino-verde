@@ -1,12 +1,12 @@
 let canvas = document.getElementById("canvas-top");
 let ctx = canvas.getContext("2d");
 
-const wasteCans = ["/WasteSorting/img/glass.svg", "/WasteSorting/img/metal.svg", "/WasteSorting/img/paper.svg", "/WasteSorting/img/plastic.svg"];
+const wasteCans = ["./img/glass.svg", "./img/metal.svg", "./img/paper.svg", "./img/plastic.svg"];
 
-const glass = "/WasteSorting/img/beer.svg";
-const metal = "/WasteSorting/img/sodaCan.svg";
-const paper= "/WasteSorting/img/newsPaper.svg";
-const plastic = "/WasteSorting/img/cup.svg";
+const glass = "./img/beer.svg";
+const metal = "./img/sodaCan.svg";
+const paper= "./img/newsPaper.svg";
+const plastic = "./img/cup.svg";
 
 let gameState = {
   indexWaste: 0,
@@ -122,7 +122,7 @@ img.src = wasteCans[gameState.indexWaste];
     gameState.enemies[i].x -= gameState.enemies[i].velocity;
 
     let img = document.createElement('img');
-    img.src = "/WasteSorting/img/banana.svg";
+    img.src = "./img/banana.svg";
     ctx.drawImage(img, gameState.enemies[i].x, gameState.enemies[i].y, 20, 20);
   }
   for (let i = 0; i < gameState.enemies.length; ++i) {
