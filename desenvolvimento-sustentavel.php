@@ -25,7 +25,7 @@
                         <h5>Fichamento por: Adão Thalisson | Núcleo Temático de Educação Ambiental Interdisciplinar, 2021.2</h5>
                     </header>
 
-                    
+
 
                     <p>A definição mais direta para o desenvolvimento sustentável é a capacidade de uma sociedade evoluir suprindo as necessidades atuais, sem comprometer a capacidade de atender as demandas futuras. Ou seja, é um um modelo de desenvolvimento que não esgota os recursos para o futuro.</p>
 
@@ -65,9 +65,10 @@
 
                     <h2>Como fomentar o desenvolvimento sustentável?</h2>
 
-                    <p>O desenvolvimento sustentável é necessário para a manutenção das diferentes formas de vida da humanidade, assim como para a garantia de oferta de recursos ambientais para as próximas gerações. Sendo assim, o alcance do desenvolvimento sustentável perpassa por mudanças nos hábitos de consumo, nas políticas ambientais e na melhoria da qualidade de vida da população. Para tal, torna-se necessário uma reavaliação dos modos de vida das pessoas, com vistas à diminuição do consumismo e da predação desenfreada dos recursos naturais, além da promoção de mudanças na estrutura produtiva das indústrias.</p>
+                    <p>O desenvolvimento sustentável se faz necessário para manutenção de diferentes formas de vida, garantindo recursos ambientais para futuras gerações. Logo, alcançar o desenvolvimento sustentável passa por mudanças nos hábitos, principalmente de consumo, na melhoria da qualidade de vida e nas políticas ambientais da população. Para isso, é necessário uma outra óptica no modo de vida dos indivíduos, com diminuição do consumismo e predação sem limites dos recursos naturais, além de mudanças na produção das indústrias.
+                    </p>
 
-                    <p>No mais, deve-se ainda incentivar políticas de preservação ambiental, assim como atividades com reduzido impacto ambiental nas diferentes esferas da sociedade. Por sua vez, do ponto de vista social, pode-se fomentar ações de diminuição das desigualdades sociais, assim como o estabelecimento de uma maior oferta de trabalho e renda para as populações, por meio das contribuições da chamada economia verde. Desse modo, contemplam-se os princípios econômico, ambiental e social previstos no conceito de desenvolvimento sustentável</p>
+                    <p>Além disso, deve ser incentivado políticas de preservação no meio ambiente, assim como promover atividades com baixo impacto ambiental em toda sociedade. Por sua vez, do ponto de vista social, pode ser fomentado ações de diminuição das desigualdades sociais, assim como estabelecer uma maior oferta de empregos e renda para os indivíduos, por meio de contribuições da economia verde. Dessa forma, contempla-se os princípios, econômicos, sociais e ambientais já previstos no pensamento de desenvolvimento sustentável.</p>
 
                 </section>
 
