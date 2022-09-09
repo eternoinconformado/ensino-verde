@@ -41,6 +41,15 @@
 											</ul>
 										</article>
 										<article>
+											<a href="QUIZ-APP/index.html" target="_blank" class="image"><img src="QUIZ-APP/img/lamp.png" alt="QUIZ" /></a>
+											<h3>Ensino Verde - Quiz</h3>
+											<p>Quiz com o intuito de proporcionar o conhecimento para as crianças sobre os assuntos abordados no site.</p>
+											<p class="creditos"><i><b>Autores: </b>Adão Thalisson e Matheus Passos</i><p>
+											<ul class="actions">
+												<li><a href="QUIZ-APP/index.html" target="_blank" class="button leiaMais">Acessar (Versão Web)</a></li>
+											</ul>
+										</article>
+										<article>
 											<a href="WasteSorting/index.html" target="_blank" class="image"><img src="images/coleta_seletiva.jpg" alt="coletaSeletiva" /></a>
 											<h3>Coleta Seletiva</h3>
 											<p>Mini jogo com o intuito de proporcionar o conhecimento para as crianças e até adultos a memorizar as cores certas para cada tipo de resíduo.</p>
