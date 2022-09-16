@@ -43,6 +43,8 @@
 	  </div>    
 	
 	<a href="jogos-e-ferramentas.php">Jogos e Ferramentas</a>
+
+	<a href="sobre.php">Sobre</a>
  
 	  <a href="javascript:void(0);" style="font-size:14px" class="icon" onclick="responsivo()">&#9776;</a>
 	</div>
