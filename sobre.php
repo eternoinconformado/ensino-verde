@@ -55,7 +55,7 @@
 
                     <P>
                         <b>Autores:<b>
-                                Matheus Passos e Vítor Fagundes
+                                Matheus Passos, Vítor Fagundes e Prof. Paulo Roberto Ramos (Orientador)
                     </p>
 
                     <P>
@@ -97,7 +97,7 @@
 
                     <P>
                         <b>Autores:<b>
-                                Adão Thalisson e Matheus Passos
+                                Adão Thalisson, Matheus Passos e Prof. Paulo Roberto Ramos (Orientador)
                     </p>
 
                     <P>
@@ -139,7 +139,7 @@
 
                     <P>
                         <b>Autores:<b>
-                                Adão Thalisson e Matheus Passos
+                                Adão Thalisson, Matheus Passos e Prof. Paulo Roberto Ramos (Orientador)
                     </p>
 
                     <P>
