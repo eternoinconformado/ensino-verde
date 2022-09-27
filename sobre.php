@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+﻿<!DOCTYPE HTML>
 <html>
 
 <head>
@@ -97,7 +97,7 @@
 
                     <P>
                         <b>Autores:<b>
-                                Adão Thalisson, Matheus Passos e Prof. Paulo Roberto Ramos (Orientador)
+                                Adão Thalisson, Matheus Passos e Prof. Paulo Roberto Ramos (Orientador) 
                     </p>
 
                     <P>
