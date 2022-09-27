@@ -28,6 +28,7 @@
 							<a href="matematica-do-lixo.php" target="_blank" class="image"><img src="images/matematica-do-lixo.jpg" alt="Quanto lixo tua cidade produz?" /></a>
 							<h3>Quanto lixo tua cidade produz?</h3>
 							<p>Já parou para pensar na enorme quantidade de lixo que é produzida por dia na tua cidade e como isso impacta o meio ambiente? Acesse esta ferramenta para saber mais a respeito.</p><br>
+							<p class="creditos"><i><b>ISBN </b>978-65-00-52886-2.</i></p>
 							<p class="creditos"><i><b>Autores: </b>Matheus Passos e Vítor Fagundes</i></p>
 							<p class="creditos"><i><b>Orientador: </b>Prof. Paulo Roberto Ramos</i></p>
 							<ul class="actions">
@@ -45,6 +46,7 @@
 								<li>Leia a pergunta que irá aparecer na tela e selecione a alternativa que você julgar como correta.</li>
 								<li>Após clicar na alternativa, a resposta correta aparecerá em verde e as demais em vermelho.</li><br>
 							</ul>
+							<p class="creditos"><i><b>ISBN </b>978-65-00-52884-8.</i></p>
 							<p class="creditos"><i><b>Autores: </b>Adão Thalisson e Matheus Passos</i></p>
 							<p class="creditos"><i><b>Orientador: </b>Prof. Paulo Roberto Ramos</i></p>
 							<ul class="actions">
@@ -65,6 +67,7 @@
 									<p>Clique aqui para ler o conteúdo sobre coleta seletiva</p>
 								</a>
 							</ul>
+							<p class="creditos"><i><b>ISBN </b>978-65-00-52885-5.</i></p>
 							<p class="creditos"><i><b>Autores: </b>Adão Thalisson e Matheus Passos</i></p>
 							<p class="creditos"><i><b>Orientador: </b>Prof. Paulo Roberto Ramos</i></p>
 							<ul class="actions">
